@@ -36,12 +36,7 @@ git clone https://github.com/Siddharth-Chandel/binance-trading-bot.git
 cd binance-trading-bot
 ```
 
-2. Install the required Python libraries:
-```bash
-pip install -r requirements.txt
-```
-
-3. Ensure you have a `.env` file with your Binance API keys:
+2. Ensure you have a `.env` file with your Binance API keys:
 ```env
 Binance_Key=YOUR_API_KEY
 Binance_secret_key=YOUR_SECRET_KEY
@@ -68,7 +63,7 @@ Binance_secret_key=YOUR_SECRET_KEY
 
 2. Run the script:
 ```bash
-python trading_bot.py
+python Automated_trading.py
 ```
 
 3.The bot will continuously monitor the market for price changes and perform buy/sell actions until the "space" key is pressed to stop the script.
