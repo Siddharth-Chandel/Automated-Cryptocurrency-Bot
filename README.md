@@ -99,5 +99,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📬 Contact
 Siddharth Chandel
-Email: siddharthchandel2004@gmail.com
-LinkedIn: [Siddharth Chandel](https://www.linkedin.com/in/siddharth-chandel-001097245/)
+- Email: siddharthchandel2004@gmail.com
+- LinkedIn: [Siddharth Chandel](https://www.linkedin.com/in/siddharth-chandel-001097245/)
