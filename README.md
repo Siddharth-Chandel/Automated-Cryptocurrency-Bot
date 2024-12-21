@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 ## Install Dependencies
 1. Clone the repository:
 ```bash
-git clone https://github.com/Siddharth-Chandel/binance-trading-bot.git
+git clone https://github.com/Siddharth-Chandel/Automated-Cryptocurrency-Bot.git
 cd binance-trading-bot
 ```
 
